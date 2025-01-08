@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larasneves
-- 👀 I’m currently learning Data Science
+- 👀 I’m currently in the field of Data Science and Data Stream Mining
 - Master in Data Science and Engineering, FEUP, Porto
 <!---
 larasneves/larasneves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
