@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larasneves
-- 👀 I’m currently in the field of Data Science and Data Stream Mining
-- Master in Data Science and Engineering, FEUP, Porto
-- Bachelor in Biomedical Engineering
+- 👀 I’m currently starting my PhD at Carnegie Mellon University
+- Master's in Data Science and Engineering, FEUP
+- Bachelor's in Biomedical Engineering
 
 <!---
 larasneves/larasneves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
